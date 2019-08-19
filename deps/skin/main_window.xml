@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Window size="1050,700" sizebox="4,4,4,4" caption="0,0,0,20" mininfo="1050,700" roundcorner="5,5" showdirty="false">
+  <Font shared="true" id="0" name="微软雅黑" size="18" bold="false"/>
+  <Font shared="true" id="1" name="幼圆" size="14" bold="true"/>
+  <Default shared="true" name="VScrollBar" value="button1normalimage=&quot;file='scrollbar.bmp' source='0,90,16,106' mask='#FFFF00FF'&quot; button1hotimage=&quot;file='scrollbar.bmp' source='18,90,34,106' mask='#FFFF00FF'&quot; button1pushedimage=&quot;file='scrollbar.bmp' source='36,90,52,106' mask='#FFFF00FF'&quot; button1disabledimage=&quot;file='scrollbar.bmp' source='54,90,70,106' mask='#FFFF00FF'&quot; button2normalimage=&quot;file='scrollbar.bmp' source='0,108,16,124' mask='#FFFF00FF'&quot; button2hotimage=&quot;file='scrollbar.bmp' source='18,108,34,124' mask='#FFFF00FF'&quot; button2pushedimage=&quot;file='scrollbar.bmp' source='36,108,52,124' mask='#FFFF00FF'&quot; button2disabledimage=&quot;file='scrollbar.bmp' source='54,108,70,124' mask='#FFFF00FF'&quot; thumbnormalimage=&quot;file='scrollbar.bmp' source='0,126,16,142' corner='2,2,2,2' mask='#FFFF00FF'&quot; thumbhotimage=&quot;file='scrollbar.bmp' source='18,126,34,142' corner='2,2,2,2' mask='#FFFF00FF'&quot; thumbpushedimage=&quot;file='scrollbar.bmp' source='36,126,52,142' corner='2,2,2,2' mask='#FFFF00FF'&quot; thumbdisabledimage=&quot;file='scrollbar.bmp' source='54,126,70,142' corner='2,2,2,2' mask='#FFFF00FF'&quot; railnormalimage=&quot;file='scrollbar.bmp' source='0,144,16,160' corner='2,2,2,2' mask='#FFFF00FF'&quot; railhotimage=&quot;file='scrollbar.bmp' source='18,144,34,160' corner='2,2,2,2' mask='#FFFF00FF'&quot; railpushedimage=&quot;file='scrollbar.bmp' source='36,144,52,160' corner='2,2,2,2' mask='#FFFF00FF'&quot; raildisabledimage=&quot;file='scrollbar.bmp' source='54,144,70,160' corner='2,2,2,2' mask='#FFFF00FF'&quot; bknormalimage=&quot;file='scrollbar.bmp' source='0,162,16,178' corner='2,2,2,2' mask='#FFFF00FF'&quot; bkhotimage=&quot;file='scrollbar.bmp' source='18,162,34,178' corner='2,2,2,2' mask='#FFFF00FF'&quot; bkpushedimage=&quot;file='scrollbar.bmp' source='36,162,52,178' corner='2,2,2,2' mask='#FFFF00FF'&quot; bkdisabledimage=&quot;file='scrollbar.bmp' source='54,162,70,178' corner='2,2,2,2' mask='#FFFF00FF'&quot; " />
+  <Default shared="true" name="HScrollBar" value="button1normalimage=&quot;file='scrollbar.bmp' source='0,0,16,16' mask='#FFFF00FF'&quot; button1hotimage=&quot;file='scrollbar.bmp' source='18,0,34,16' mask='#FFFF00FF'&quot; button1pushedimage=&quot;file='scrollbar.bmp' source='36,0,52,16' mask='#FFFF00FF'&quot; button1disabledimage=&quot;file='scrollbar.bmp' source='54,0,70,16' mask='#FFFF00FF'&quot; button2normalimage=&quot;file='scrollbar.bmp' source='0,18,16,34' mask='#FFFF00FF'&quot; button2hotimage=&quot;file='scrollbar.bmp' source='18,18,34,34' mask='#FFFF00FF'&quot; button2pushedimage=&quot;file='scrollbar.bmp' source='36,18,52,34' mask='#FFFF00FF'&quot; button2disabledimage=&quot;file='scrollbar.bmp' source='54,18,70,34' mask='#FFFF00FF'&quot; thumbnormalimage=&quot;file='scrollbar.bmp' source='0,36,16,52' corner='2,2,2,2' mask='#FFFF00FF'&quot; thumbhotimage=&quot;file='scrollbar.bmp' source='18,36,34,52' corner='2,2,2,2' mask='#FFFF00FF'&quot; thumbpushedimage=&quot;file='scrollbar.bmp' source='36,36,52,52' corner='2,2,2,2' mask='#FFFF00FF'&quot; thumbdisabledimage=&quot;file='scrollbar.bmp' source='54,36,70,52' corner='2,2,2,2' mask='#FFFF00FF'&quot; railnormalimage=&quot;file='scrollbar.bmp' source='0,54,16,70' corner='2,2,2,2' mask='#FFFF00FF'&quot; railhotimage=&quot;file='scrollbar.bmp' source='18,54,34,70' corner='2,2,2,2' mask='#FFFF00FF'&quot; railpushedimage=&quot;file='scrollbar.bmp' source='36,54,52,70' corner='2,2,2,2' mask='#FFFF00FF'&quot; raildisabledimage=&quot;file='scrollbar.bmp' source='54,54,70,70' corner='2,2,2,2' mask='#FFFF00FF'&quot; bknormalimage=&quot;file='scrollbar.bmp' source='0,72,16,88' corner='2,2,2,2' mask='#FFFF00FF'&quot; bkhotimage=&quot;file='scrollbar.bmp' source='18,72,34,88' corner='2,2,2,2' mask='#FFFF00FF'&quot; bkpushedimage=&quot;file='scrollbar.bmp' source='36,72,52,88' corner='2,2,2,2' mask='#FFFF00FF'&quot; bkdisabledimage=&quot;file='scrollbar.bmp' source='54,72,70,88' corner='2,2,2,2' mask='#FFFF00FF'&quot; " />
+  <Default name="Button" value="normalimage=&quot;file='button_nor.bmp' fade='200'&quot; hotimage=&quot;file='button_over.bmp' fade='200'&quot; pushedimage=&quot;file='button_down.bmp' fade='200'&quot; " />
+
+  <Container>
+    <VerticalLayout inset="4,0,4,4" bkcolor="#FF60B1FE" bordercolor="#FF1B4876" bordersize="1" borderround="5,5">
+      
+      <!--导航栏-->
+      <HorizontalLayout height="20" bkcolor="#FF8DD3FF" bkcolor2="#FF60B1FE">
+        <Control />
+        <HorizontalLayout width="94">
+          <Button name="minbtn" maxwidth="26" maxheight="18" normalimage="file='frame_btn_min.bmp' source='0,0,26,18' mask='#FFFF00FF'" hotimage="file='frame_btn_min.bmp' source='26,0,52,18' mask='#FFFF00FF'" pushedimage="file='frame_btn_min.bmp' source='52,0,78,18' mask='#FFFF00FF'" />
+          <Button name="maxbtn" maxwidth="26" maxheight="18" normalimage="file='frame_btn_max.bmp' source='0,0,26,18' mask='#FFFF00FF'" hotimage="file='frame_btn_max.bmp' source='26,0,52,18' mask='#FFFF00FF'" pushedimage="file='frame_btn_max.bmp' source='52,0,78,18' mask='#FFFF00FF'" />
+          <Button visible="false" name="restorebtn" maxwidth="26" maxheight="18" normalimage="file='frame_btn_max.bmp' source='104,0,130,18' mask='#FFFF00FF'" hotimage="file='frame_btn_max.bmp' source='130,0,156,18' mask='#FFFF00FF'" pushedimage="file='frame_btn_max.bmp' source='156,0,182,18' mask='#FFFF00FF'" />
+          <Button name="closebtn" maxwidth="42" maxheight="18" normalimage="file='frame_btn_close_normal.bmp' mask='#FFFF00FF'" hotimage="file='frame_btn_close_hot.bmp' mask='#FFFF00FF'" pushedimage="file='frame_btn_close_down.bmp' mask='#FFFF00FF'" />
+        </HorizontalLayout>
+      </HorizontalLayout>
+        
+      <!--客户区-->
+      <HorizontalLayout>
+
+        <HorizontalLayout width="300" minwidth="200" maxwidth="520" inset="0,0,3,0" sepwidth="6" sepimm="true" bkcolor="#FF60B1FE">
+          <MenuTree virtualwnd="menu_tree_page" name="menu_tree" bkcolor="#FFE0F0FE" inset="1,1,1,1" itemaltbk="true" bordercolor="#FF1B4876" bordersize="1" header="hidden" itemhotimage="file='GameRes/tree_hot.bmp' corner='2,1,2,1'" itemselectedimage="file='GameRes/tree_select.bmp' corner='2,1,2,1'" itemshowhtml="true" vscrollbar="true" hscrollbar="true" vscrollbarstyle="width=&quot;6&quot; showbutton1=&quot;false&quot; showbutton2=&quot;false&quot;"/>
+        </HorizontalLayout>
+        <TabLayout name="client_tabs" bkcolor="#FFE0F0FE">
+          <!--搜索窗口-->
+          <VerticalLayout virtualwnd="search_page">
+            <Control />
+            <HorizontalLayout height="500">
+              <Control />
+              <VerticalLayout width="690">
+                <Control />
+                <HorizontalLayout  height="30">
+                  <Label text="搜索内容:" showhtml="true" width="60" padding="0,0,5,0"/>
+                  <Edit name="search_content" width="550" roundcorner="5,5"/>
+                  <Button name="search_btn" padding="5,0,0,0" text="搜索" width="70"/>
+                </HorizontalLayout>
+                <Control height="30"/>
+                <HorizontalLayout height="260"  visible="false" name="search_result_container">
+                  <Control name="novel_icon" bkimage="E:/dev_env/msys64/home/Administrator/projects/go_projects/src/github.com/twoflyliu/novel5/Debug/json/完美世界.img" width="120" height="150" bordercolor="#FFFF0000" bordersize="1"/>
+                  <Control width="20"/>
+                  <VerticalLayout>
+                    <HorizontalLayout height="20">
+                      <Label text="书名:" showhtml="true" width="70"/>
+                      <Label name="novel_name" text="圣墟" showhtml="true" />
+                      <Control />
+                    </HorizontalLayout>
+                    <HorizontalLayout height="20">
+                      <Label text="作者:" showhtml="true" width="70"/>
+                      <Label name="novel_author" text="辰东" showhtml="true" />
+                      <Control />
+                    </HorizontalLayout>
+                    <HorizontalLayout height="20">
+                      <Label text="最后更新：" showhtml="true" width="70"/>
+                      <Label name="novel_last_update_time" text="2017/6/28 20:11:28" showhtml="true" />
+                      <Control />
+                    </HorizontalLayout>
+                    <HorizontalLayout height="20">
+                      <Label text="最新更新：" showhtml="true" width="70"/>
+                      <Label name="novel_last_chapter_name" text="第四百八十五章 人贩子楚风" showhtml="true" />
+                      <Control />
+                    </HorizontalLayout>
+                    <Control height="20"/>
+                    <Label height="20" text="描述信息:" showhtml="true" />
+                    <RichEdit name="novel_description" text="在破败中崛起，在寂灭中复苏。 沧海成尘，雷电枯竭，那一缕幽雾又一次临近大地，世间的枷锁被打开了，一个全新的世界就此揭开神秘的一角……" maxheight="100"/>
+                    <Button name="download_btn" text="下载" height="30" width="70"/>
+                  </VerticalLayout>
+                </HorizontalLayout>
+                <Control />
+              </VerticalLayout>
+              <Control />
+            </HorizontalLayout>
+            <Control />
+          </VerticalLayout>
+
+          <!--下载窗口-->
+          <List virtualwnd="download_list_page" name="download_list" text="" vscrollbar="true" hscrollbar="false" tooltip="" float="false" bordersize="1" bkcolor="#FFE0F0FE" bordercolor="#FF1B4876" itemselectedbkcolor="#FFC1E3FF" itemhotbkcolor="#FFE9F5FF" inset="3,3,3,3"  vscrollbarstyle="width=&quot;10&quot; showbutton1=&quot;false&quot; showbutton2=&quot;false&quot;">
+            <ListHeader sepwidth="0">
+              <ListHeaderItem dragable="false" text="书名" width="120" normalimage="headerctrl_normal.bmp" hotimage="headerctrl_hot.bmp" pushedimage="headerctrl_down.bmp" sepimage="Headerctrl_Sperator.bmp" />
+              <ListHeaderItem dragable="false" text="作者" width="80" normalimage="headerctrl_normal.bmp" hotimage="headerctrl_hot.bmp" pushedimage="headerctrl_down.bmp" sepimage="Headerctrl_Sperator.bmp" />
+              <ListHeaderItem dragable="false" text="最后更新" width="120" normalimage="headerctrl_normal.bmp" hotimage="headerctrl_hot.bmp" pushedimage="headerctrl_down.bmp" sepimage="Headerctrl_Sperator.bmp" />
+              <ListHeaderItem dragable="false" text="最新更新" width="200" normalimage="headerctrl_normal.bmp" hotimage="headerctrl_hot.bmp" pushedimage="headerctrl_down.bmp" sepimage="Headerctrl_Sperator.bmp" />
+              <ListHeaderItem dragable="false" text="下载进度" width="150" normalimage="headerctrl_normal.bmp" hotimage="headerctrl_hot.bmp" pushedimage="headerctrl_down.bmp" sepimage="Headerctrl_Sperator.bmp" />
+              <ListHeaderItem text="操作" normalimage="headerctrl_normal.bmp" hotimage="headerctrl_hot.bmp" pushedimage="headerctrl_down.bmp" sepimage="Headerctrl_Sperator.bmp" />
+            </ListHeader>
+          </List>
+
+          <VerticalLayout virtualwnd="view_page">
+            <HorizontalLayout height="35">
+              <Control />
+              <Edit name="filter_novel_name" width="300" padding="0,10,30,0" height="25"/>
+            </HorizontalLayout>
+            <TileLayout name="novels" bkcolor="#FFE0F0FE" vscrollbar="true" hscrollbar="false" vscrollbarstyle="width=&quot;10&quot; showbutton1=&quot;false&quot; showbutton2=&quot;false&quot;" itemsize="110,135" inset="10,10,10,10" childpadding="5">
+            </TileLayout>
+          </VerticalLayout>
+        </TabLayout>
+
+      </HorizontalLayout>
+
+    </VerticalLayout>
+  </Container>
+</Window>
+

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Window>
+  <ListContainerElement height="30">
+    <HorizontalLayout>
+      <Label name="name" text="圣墟" width="120" align="center"/>
+      <Label name="author" text="辰东" width="80" align="center" endellipsis="true"/>
+      <Label name="last_update_time" text="2017/6/28 20:11:28" width="120" align="center" endellipsis="true"/>
+      <Label name="last_chapter_name" text="第四百八十五章 人贩子楚风" width="200" endellipsis="true" align="center"/>
+      <Progress name="download_progress" padding="0,10,0,0" foreimage="progress_fore.png" min="0" max="100" width="150" value="100" align="center"/>
+      <Label name="download_op" text="下载" align="center"/>
+    </HorizontalLayout>
+  </ListContainerElement>
+</Window>

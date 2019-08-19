@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Window>
+  <VerticalLayout width="100" height="125">
+    <Control height="5"/>
+    <HorizontalLayout height="100">
+      <Control />
+      <Option name="view_item_option" bkimage="E:/dev_env/msys64/home/Administrator/projects/go_projects/src/github.com/twoflyliu/novel5/Debug/json/完美世界.img" width="80" height="100" bordersize="4" align="center" group="novels" bordercolor="#FFE0E0FE"/>
+      <Control />
+    </HorizontalLayout>
+    <Label name="name" text="完美世界" align="center" height="20"/>
+    <Control />
+  </VerticalLayout>
+</Window>

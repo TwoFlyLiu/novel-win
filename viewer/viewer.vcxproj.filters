@@ -61,9 +61,4 @@
       <Filter>资源文件</Filter>
     </Image>
   </ItemGroup>
-  <ItemGroup>
-    <Xml Include="..\Debug\skin\viewer_main_window.xml">
-      <Filter>资源文件</Filter>
-    </Xml>
-  </ItemGroup>
 </Project>

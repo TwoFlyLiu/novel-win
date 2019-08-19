@@ -178,11 +178,6 @@
   <ItemGroup>
     <Image Include="viewer.ico" />
   </ItemGroup>
-  <ItemGroup>
-    <Xml Include="..\Debug\skin\viewer_main_window.xml">
-      <SubType>Designer</SubType>
-    </Xml>
-  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>

@@ -90,17 +90,6 @@
     </ResourceCompile>
   </ItemGroup>
   <ItemGroup>
-    <Xml Include="..\Debug\skin\main_window.xml">
-      <Filter>资源文件</Filter>
-    </Xml>
-    <Xml Include="..\Debug\skin\download_list_element.xml">
-      <Filter>资源文件</Filter>
-    </Xml>
-    <Xml Include="..\Debug\skin\novel_view.xml">
-      <Filter>资源文件</Filter>
-    </Xml>
-  </ItemGroup>
-  <ItemGroup>
     <Image Include="novel.ico">
       <Filter>资源文件</Filter>
     </Image>
