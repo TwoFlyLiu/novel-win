@@ -5,19 +5,19 @@ windows平台下支持小说搜索、下载、阅读win32应用
 
 ### 搜索页面
 
-![](./doc/imgs/search.jpg "搜索页面")
+![](./doc/imgs/search.PNG "搜索页面")
 
 ### 下载页面
 
-![](./doc/imgs/download.jpg "下载页面")
+![](./doc/imgs/download.PNG "下载页面")
 
 ### 书架页面
 
-![](./doc/imgs/bookshelf.jpg "书架页面")
+![](./doc/imgs/bookshelf.PNG "书架页面")
 
 ### 阅读页面
 
-![](./doc/imgs/view.jpg "阅读页面")
+![](./doc/imgs/view.PNG "阅读页面")
 
 ## 安装
 
