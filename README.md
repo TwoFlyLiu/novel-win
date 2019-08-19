@@ -21,12 +21,12 @@ windows平台下支持小说搜索、下载、阅读win32应用
 
 ## 安装
 
-[installer文件](./novel_installer/Release/)
+[安装文件](./distrib/novel-win-0.0.1.zip "安装文件")
 
 ## 感谢
 
-感谢[duilib](https://github.com/duilib/duilib)项目
++ 感谢[duilib](https://github.com/duilib/duilib)项目
 
 ## 参考
 
-1. [linux PC端小说阅读](https://github.com/TwoFlyLiu/novel)项目
++ [linux PC端小说阅读](https://github.com/TwoFlyLiu/novel)项目
